@@ -28,8 +28,18 @@
 <img alt="Kotlin" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/kotlin/kotlin.png" />
 </p>
 
+## GitHub stats
+<p align="center">
+<br />
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img alt="RenardNocturne's Github Stats" align="center" src="https://github-readme-stats.vercel.app/api?username=RenardNocturne&theme=noctis_minimus&count_private=true" />
+</a>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img alt="RenardNocturne's Most Used Languages" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RenardNocturne&layout=compact&count_private=true&theme=noctis_minimus" />
+</a>
+</p>
 
-## 🔌 Connect with me:
+## 🔌 Contact me:
 <p>
 <a href = "https://discordapp.com/users/240719395352084480"><img src="https://img.icons8.com/fluency/48/000000/discord-logo.png"/></a>
 <a href = "https://www.youtube.com/channel/UCkjkofshsaAybT7GPO2R0Mw"><img src="https://img.icons8.com/color/48/000000/youtube-play.png"/></a>
