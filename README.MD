@@ -32,10 +32,10 @@
 <p align="center">
 <br />
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img alt="RenardNocturne's Github Stats" align="center" src="https://github-readme-stats.vercel.app/api?username=RenardNocturne&theme=noctis_minimus&count_private=true" />
+  <img alt="RenardNocturne's Github Stats" align="center" src="https://github-readme-stats.vercel.app/api?username=RenardNocturne&theme=noctis_minimus&count_private=true&hide_border=true&bg_color=0D1117" />
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img alt="RenardNocturne's Most Used Languages" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RenardNocturne&layout=compact&count_private=true&theme=noctis_minimus" />
+  <img alt="RenardNocturne's Most Used Languages" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RenardNocturne&layout=compact&count_private=true&theme=noctis_minimus&hide_border=true&bg_color=0D1117" />
 </a>
 </p>
 
