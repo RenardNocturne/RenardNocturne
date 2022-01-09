@@ -17,7 +17,7 @@
 
 
 ## 🔥 Languages and Tools
-<div style="display: flex; width: 100%; justify-content: space-between; flex-direction: row;">
+<div style="display: flex; justify-content: space-around;">
 <img alt="visual Studio Code" width="48px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png"/>
 <img alt="HTML" width="48px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 <img alt="CSS" width="48px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
