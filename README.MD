@@ -30,7 +30,7 @@
 
 ## 📈 GitHub stats
 <div style="display: flex; flex-direction: row" >
-<img src="https://github-readme-stats.vercel.app/api?username=RenardNocturne&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /><img alt="RenardNocturne's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RenardNocturne&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117&langs_count=8" />
+<img src="https://github-readme-stats.vercel.app/api?username=RenardNocturne&show_icons=true&count_private=true&theme=noctis_minimus&hide_border=true&bg_color=0D1117" /><img alt="RenardNocturne's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RenardNocturne&langs_count=8&count_private=true&layout=compact&theme=noctis_minimus&hide_border=true&bg_color=0D1117&langs_count=8" />
 <br/>
 <br/>
 </div>
