@@ -6,7 +6,7 @@
 
 <br />
 
-## 💎 I'm a passionate of science, technology, and development !
+## 💎 I'm a passionate about science, technology, and development !
 - 🤖 I'm currently working [on my Discord Bot](https://muzikae.fr) !
 
 - 📚 I'm learning a lot about AI !
