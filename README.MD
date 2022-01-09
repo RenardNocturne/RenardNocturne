@@ -5,7 +5,7 @@
 <h2 align="center">A young French Developer </h2>
 &nbsp;
 &nbsp;
-<h3> 💎 I'm a passionate of science, technology, and development !</h3>
+<h2> 💎 I'm a passionate of science, technology, and development !</h2>
 - 🤖 I'm currently working [on my Discord Bot](https://muzikae.fr) !
 
 - 📚 I'm learning a lot about AI !
@@ -15,7 +15,7 @@
 - ⚡ Fun facts: I'm learning Danish - Jeg lærer Dansk & I really enjoy astronomy and aviation !
 &nbsp;
 &nbsp;
-<h3> 🔥 Languages and Tools </h3>
+<h2> 🔥 Languages and Tools </h2>
 <img align="left" alt="visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png"/>
 <img align="left" alt="HTML" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 <img align="left" alt="CSS" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
@@ -26,7 +26,7 @@
 <img align="left" alt="Kotlin" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/kotlin/kotlin.png" />
 &nbsp;
 &nbsp;
-<h3> 🔌 Connect with me: </h3>
+<h2> 🔌 Connect with me: </h2>
 <p>
 <a href = "https://discordapp.com/users/240719395352084480"><img src="https://img.icons8.com/fluency/48/000000/discord-logo.png"/></a>
 <a href = "https://www.youtube.com/channel/UCkjkofshsaAybT7GPO2R0Mw"><img src="https://img.icons8.com/color/48/000000/youtube-play.png"/></a>
