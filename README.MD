@@ -4,6 +4,7 @@
 <h1 align="center"> Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm RenardNocturne </h1> 
 <h3 align="center">A young French Developer </h3>
 
+<br />
 
 ## 💎 I'm a passionate of science, technology, and development !
 - 🤖 I'm currently working [on my Discord Bot](https://muzikae.fr) !
