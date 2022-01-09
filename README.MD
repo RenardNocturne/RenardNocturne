@@ -28,13 +28,14 @@
 <img alt="Kotlin" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/kotlin/kotlin.png" />
 </p>
 
-## GitHub stats
+## 📈 GitHub stats
 <p align="center">
-<br />
-<a href="https://github.com/anuraghazra/github-readme-stats"><img alt="RenardNocturne's Github Stats" align="center" src="https://github-readme-stats.vercel.app/api?username=RenardNocturne&theme=noctis_minimus&count_private=true&hide_border=true&bg_color=0D1117" /></a>
-<a href="https://github.com/anuraghazra/github-readme-stats"><img alt="RenardNocturne's Most Used Languages" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RenardNocturne&layout=compact&count_private=true&theme=noctis_minimus&hide_border=true&bg_color=0D1117" /></a>
-</p>
-
+<br/>
+<a><img alt="RenardNocturne's Github Stats" src="https://github-readme-stats.vercel.app/api?username=RenardNocturne&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
+<a><img alt="RenardNocturne's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RenardNocturne&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
+<br/>
+<br/>
+<p/>
 ## 🔌 Contact me:
 <p>
 <a href = "https://discordapp.com/users/240719395352084480"><img src="https://img.icons8.com/fluency/48/000000/discord-logo.png"/></a>
