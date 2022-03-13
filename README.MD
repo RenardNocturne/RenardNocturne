@@ -11,9 +11,9 @@
 
 - 📚 I'm learning a lot about AI !
 
-- 🥅 2022 Goals: Get my BAC & Create my wn website !
+- 🥅 2022 Goals: Get my BAC & Create my own website !
 
-- ⚡ Fun facts: I'm learning Danish - Jeg lærer Dansk & I really enjoy astronomy and aviation !
+- ⚡ Fun facts: I'm learning Danish - Jeg lærer Dansk !
 
 
 ## 🔥 Languages and Tools
