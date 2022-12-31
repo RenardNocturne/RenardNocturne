@@ -6,12 +6,12 @@
 
 <br />
 
-## 💎 I'm a passionate about science, technology, and development !
-- 🤖 I'm currently working [on my Discord Bot](https://muzikae.fr) !
+## 💎 Learn more about me !
+- 🔭 I'm a science lover !
 
-- 📚 I'm learning a lot about AI !
+- 📚 I'm learning a lot about Chess !
 
-- 🥅 2022 Goals: Get my BAC & Create my own website !
+- 🥅 2023 Goals: Get my BAC & Create my own website !
 
 - ⚡ Fun facts: I'm learning Danish - Jeg lærer Dansk !
 
@@ -25,7 +25,6 @@
 <img alt="Javascript" width="48px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" /> 
 <img alt="Node.JS" width="48px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
 <img alt="Python" width="48px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
-<img alt="Kotlin" width="48px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/kotlin/kotlin.png" />
 </div>
 
 ## 📈 GitHub stats
