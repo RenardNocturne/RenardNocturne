@@ -44,6 +44,7 @@
 <a href = "https://www.youtube.com/channel/UCkjkofshsaAybT7GPO2R0Mw"><img src="https://img.icons8.com/color/48/000000/youtube-play.png"/></a>
 </p>
 
-<div class="waves" style="width: 100%">
+<div class="waves" style="width: 100%; display: flex; justify-content: center; align-items: center; flex-direction: column; position: relative; margin-top: -90px">
+    <p style="top: 80%; position: absolute; color: #fff; font-size: 18px">Thanks for reading ❤</p>
     <img width="100%" src="./waves.svg">
 </div>
