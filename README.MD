@@ -43,7 +43,7 @@
 <a href = "https://discordapp.com/users/240719395352084480"><img src="https://img.icons8.com/fluency/48/000000/discord-logo.png"/></a>
 <a href = "https://www.youtube.com/channel/UCkjkofshsaAybT7GPO2R0Mw"><img src="https://img.icons8.com/color/48/000000/youtube-play.png"/></a>
 </p>
-<<<<<<< HEAD
+
  <div class="waves">
     <svg width="100%" height="200px" fill="none" version="1.1"
         xmlns="http://www.w3.org/2000/svg">
@@ -106,5 +106,4 @@
         </path>
     </svg>
 </div>
-=======
->>>>>>> 5c4552a98f260bebacaca8bb80479b3d00878e2f
+
