@@ -43,8 +43,8 @@
 <a href = "https://www.youtube.com/channel/UCkjkofshsaAybT7GPO2R0Mw"><img src="https://img.icons8.com/color/48/000000/youtube-play.png"/></a>
 </p>
 
-<div style="width: 100%; display: flex; justify-content: center; align-items: center; flex-direction: column; position: relative;">
-    <p style="font-size: 18px; position: absolute;" align="center">Thanks for reading ❤</p>
+<div style="width: 100%; display: flex; justify-content: center; align-items: center; flex-direction: column; position: relative; margin-top: 10%">
+    <p style="font-size: 18px; margin-bottom: -24%; z-index: 1" align="center">Thanks for reading ❤</p>
     <div style="width: 100%; height: 100%">
         <img width="100%" src="./waves.svg">
     </div>
