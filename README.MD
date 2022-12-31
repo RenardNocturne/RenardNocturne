@@ -44,7 +44,7 @@
 </p>
 
 <div style="width: 100%; display: flex; justify-content: center; align-items: center; flex-direction: column; position: relative;">
-    <p style="font-size: 18px; position: absolute; ">Thanks for reading ❤</p>
+    <p style="font-size: 18px; position: absolute;" align="center">Thanks for reading ❤</p>
     <div style="width: 100%">
         <img width="100%" src="./waves.svg">
     </div>
